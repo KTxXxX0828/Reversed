@@ -1,2 +1,4 @@
 # Reversed
 reversed malware / app
+# WARNING!
+IM NOT PROFESSIONAL REVERSE ENGINEER. SO DONT EXPECT TOO MUCH.
