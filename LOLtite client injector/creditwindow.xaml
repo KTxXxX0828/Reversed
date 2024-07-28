@@ -1,0 +1,32 @@
+<Window x:Class="LatiteInjector.CreditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:LatiteInjector"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        Title="Latite Client Credits" Width="376" Height="324" AllowsTransparency="True"
+        Background="Transparent" ResizeMode="NoResize" WindowStyle="None">
+  <Border Padding="2" BorderBrush="Transparent" BorderThickness="2" CornerRadius="25">
+    <Border.Background>
+      <ImageBrush ImageSource="/Assets/Background.png" Opacity="0.9" Stretch="Fill"/>
+    </Border.Background>
+    <Grid>
+      <Label Margin="0,110,0,0" HorizontalAlignment="Center" VerticalAlignment="Top"
+             Content="Launcher made by Plextora (Plextora#0033)" FontFamily="Inter" FontSize="15px"
+             FontWeight="Regular" Foreground="AliceBlue"/>
+      <Label Margin="0,175,0,0" HorizontalAlignment="Center" VerticalAlignment="Top"
+             Content="Latite Client made by Imrglop (JayRSky#9295)" FontFamily="Inter" FontSize="15px"
+             FontWeight="Regular" Foreground="AliceBlue"/>
+      <Label Margin="0,208,0,0" HorizontalAlignment="Center" VerticalAlignment="Top"
+             Content="Some injector code made by carlton (carlton#4451)" FontFamily="Inter" FontSize="15px"
+             FontWeight="Regular" Foreground="AliceBlue"/>
+      <Image Style="{StaticResource HoverEffect}" Width="20" Height="20" Margin="338,10,0,0"
+             HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Hand" Source="/Assets/X.png"/>
+      <Border Panel.ZIndex="-5" Background="Black" BorderBrush="Gray" BorderThickness="1" CornerRadius="20"
+              Opacity="0"/>
+      <Label Margin="0,143,0,0" HorizontalAlignment="Center" VerticalAlignment="Top"
+             Content="Launcher design by CreativeMC (CreativeMC#0990)" FontFamily="Inter" FontSize="14px"
+             FontWeight="Regular" Foreground="AliceBlue"/>
+    </Grid>
+  </Border>
+</Window>
