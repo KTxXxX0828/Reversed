@@ -1,9 +1,7 @@
-﻿// Decompiled with JetBrains decompiler
-// Type: Tsutaemon_ver._1._0._0.NET_Framework.Form1
-// Assembly: Tsutaemon_ver._1._0._0.NET_Framework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-// MVID: C66F1F10-4B55-49DA-BE62-9742375F83F4
-// Assembly location: C:\Users\user\Downloads\Tsutaemon_ver._1._0._0.NET_Framework\Tsutaemon_ver._1._0._0.NET_Framework.exe
-// XML documentation location: C:\Users\user\Downloads\Tsutaemon_ver._1._0._0.NET_Framework\Tsutaemon_ver._1._0._0.NET_Framework.xml
+﻿﻿//Tsutaemon
+//reversed by citraX
+//www.tiktok.com/@shiruma160150/video/7381452923110264084
+//WARNING! THIS IS NOT FULL REVERSE CODE. MAYBE IT DOESNT WORKING. NOTE THAT.
 
 using Microsoft.VisualBasic.CompilerServices;
 using System;
